@@ -102,6 +102,5 @@ margin-bottom: 1rem;
 
 .descricao__texto{
     font-size: 1rem;
-    font-family:var(--fonte);
-    color: var(--cor-subfrases);
+    font-family:var(--fonte) ;
 }
