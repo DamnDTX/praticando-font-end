@@ -118,11 +118,6 @@ margin: 5rem 0;
     font-family: var(--fonte-principal);
 }
 
-.rodape {
-    text-align: center;
-    margin: 5em 3em;
-}
-
 .rodape__lista{
     display: flex;
     justify-content: center;
@@ -132,7 +127,7 @@ margin: 5rem 0;
 
 .lista__link a{
     text-decoration: none;
-    color: var(--botao-azul);
+    color: var(--branco-principal);
     margin-left: 1.5rem;
 }
 

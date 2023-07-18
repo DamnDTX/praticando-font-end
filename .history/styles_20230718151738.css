@@ -118,27 +118,8 @@ margin: 5rem 0;
     font-family: var(--fonte-principal);
 }
 
-.rodape {
-    text-align: center;
-    margin: 5em 3em;
-}
-
 .rodape__lista{
     display: flex;
     justify-content: center;
-    list-style-type: none;
-    margin-top: 1rem;
-}
-
-.lista__link a{
-    text-decoration: none;
-    color: var(--botao-azul);
-    margin-left: 1.5rem;
-}
-
-.rodape__texto{
-    font-size: 1rem;
-    color: var(--cinza-secundario);
-    text-align: center;
-    margin: 0.9rem;
+    list-style: none;
 }
