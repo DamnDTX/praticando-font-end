@@ -1,7 +1,7 @@
 :root {
     --branco-principal: #f0ebdf;
     --cinza-secundario: #C0C0C0;
-    --botao-azul: #462bb3;
+    --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
 }
@@ -103,7 +103,6 @@ body {
 display: flex;
 justify-content: center;
 list-style: none;
-margin: 5rem 0;
 }
 
 .dispositivos__titulo{
@@ -114,6 +113,6 @@ margin: 5rem 0;
 
 .lista__item{
     color: var(--branco-principal);
-    font-size: 2rem;
+    font-size: 1rem;
     font-family: var(--fonte-principal);
 }
