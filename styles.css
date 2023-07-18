@@ -142,3 +142,7 @@ margin: 5rem 0;
     text-align: center;
     margin: 0.9rem;
 }
+
+.lista__link a:hover{
+    color: var(--branco-principal);
+}
