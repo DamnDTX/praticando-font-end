@@ -1,8 +1,0 @@
-:root {
-    --corbackground: #00030C;
-    --cor-titulo: #FFFFFF;
-    --cor-subfrases: #C0C0C0;
-    --cor-botao: #167BF7;
-}
-
-body{background-color: var(--corbackground);}
