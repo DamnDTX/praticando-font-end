@@ -1,5 +1,5 @@
 :root {
-    --branco-principal: #f0ebdf;
+    --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
@@ -97,6 +97,5 @@ body {
 
 .dispositivos__titulo{
     font-family: var(--fonte-principal);
-    color: var(--branco-principal);
-    font-size: 2rem;
+    color: var(--cinza-secundario);
 }
